@@ -1,0 +1,15 @@
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\EvenIntegers.csproj.AssemblyReference.cache
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\EvenIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\EvenIntegers.AssemblyInfoInputs.cache
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\EvenIntegers.AssemblyInfo.cs
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\EvenIntegers.csproj.CoreCompileInputs.cache
+D:\InductionTasks\EvenIntegers\bin\Debug\net6.0\EvenIntegers.exe
+D:\InductionTasks\EvenIntegers\bin\Debug\net6.0\EvenIntegers.deps.json
+D:\InductionTasks\EvenIntegers\bin\Debug\net6.0\EvenIntegers.runtimeconfig.json
+D:\InductionTasks\EvenIntegers\bin\Debug\net6.0\EvenIntegers.dll
+D:\InductionTasks\EvenIntegers\bin\Debug\net6.0\EvenIntegers.pdb
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\EvenIntegers.dll
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\refint\EvenIntegers.dll
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\EvenIntegers.pdb
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\EvenIntegers.genruntimeconfig.cache
+D:\InductionTasks\EvenIntegers\obj\Debug\net6.0\ref\EvenIntegers.dll
